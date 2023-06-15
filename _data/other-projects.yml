@@ -21,7 +21,7 @@
     - thing: iTerm2
     - thing: Hyper
 
-- name: 
+- name: CS3200-Project
   url: https://github.com/narasimhandl/CS3200-Project
   code: https://github.com/narasimhandl/CS3200-Project
   description: Final project for my Database Design course at Northeastern. A simple web application that allows users to filter through a database containing Lonely Planet's <a class="underline-link" href="https://www.amazon.com/Lonely-Planets-Ultimate-Travel-Places/dp/1760342777" target="_blank">Top 500 Travel Destinations</a>. Users are able to add themselves as visitors as well as leave reviews of the destinations.
@@ -47,22 +47,4 @@
   url: https://www.narasimhan.me
   code: on request
   description:
-    A wordpress based application for my personal website. I have used a custom theme and plugins to achieve the desired functionality.
-  used:
-    - thing: Wordpress
-    - thing: custom theme
-    - thing: botPress
-    - thing: typeform
-
-- name: Android App
-  url: on request
-  - name: Personal Website V2
-    url: https://narasimhandl.github.io/v2
-    code: https://github.com/narasimhandl/v2
-    description: Second iteration of my personal website. Designed and developed with a conscious effort to avoid using any superfluous frameworks like Bootstrap.
-    used:
-      - thing: Jekyll
-      - thing: Handlebars
-      - thing: SCSS
-      - thing: JavaScript
-      - thing: Github Pages
+    A wordpress based application for my personal website. I have used a custom theme

@@ -1,44 +1,42 @@
-- company: Upstatement
-  url: https://www.upstatement.com/
-  time: May 2018 - Present
-  position: Engineer
+experience:
+- company: Siemens Gamesa
+  url: Not provided
+  time: Jan 2020 - Present
+  position: Lead Software Developer/Application Architect
+  location: Bangalore, India
 
-- company: Scout
-  url: https://web.northeastern.edu/scout/
-  time: Jan - June 2018
-  position: Studio Developer
+- company: Dell Technologies
+  url: Not provided
+  time: Feb 2019 - Aug 2019
+  position: Principal Software Engineer
+  location: Bangalore, India
 
-- company: Apple Music
-  url: https://www.apple.com/music/
-  time: July - Dec 2017
-  position: UI Engineer Co-op
+- company: Lagerinn Dutch Holding
+  url: https://www.jysk.ca/
+  time: July 2017 - Nov 2018
+  position: .NET Developer LDH
+  location: Bangalore, India and Netherlands
 
-- company: Scout
-  url: https://web.northeastern.edu/scout/
-  time: Jan - June 2017
-  position: Studio Developer
+- company: Infosys
+  url: Infosys.com
+  time: June 2015 - Dec 2016
+  position: Technology Lead
+  location: Bangalore, India
 
-- company: Starry
-  url: https://starry.com/
-  time: July - Dec 2016
-  position: Software Engineer Co-op
+- company: Indecomm Global Services
+  url: www.indecomm.net
+  time: Mar 2012 - Oct 2014
+  position: Senior Software Engineer
+  location: Western Europe, Belgium
 
-- company: Northeastern University
-  url: http://www.ccis.northeastern.edu/
-  time: Jan - May 2016
-  position: HCI Teaching Assistant
+- company: Thomson Reuters
+  url: thomsonreuters.com
+  time: Nov 2010 - Jan 2012
+  position: Software Engineer
+  location: Bangalore, India
 
-- company: NU Women in Tech
-  url: http://nuwit.ccs.neu.edu/
-  time: Jan 2016 - May 2017
-  position: President & Web Chair
-
-- company: MullenLowe U.S.
-  url: https://us.mullenlowe.com/
-  time: July - Dec 2015
-  position: Creative Technologist Co-op
-
-- company: Northeastern University
-  url: http://www.ccis.northeastern.edu/
-  time: Mar - May 2015
-  position: HCI Research Assistant
+- company: O2H Surewaves Pvt Ltd
+  url: www.surewaves.com
+  time: Dec 2007 - June 2010
+  position: .Net Developer
+  location: Bangalore, India

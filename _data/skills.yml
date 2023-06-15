@@ -1,33 +1,56 @@
 languages:
+  - item: C# 
+  - item: SQL
+  - item: VB6
+  - item: PHP
   - item: JavaScript (ES6)
   - item: TypeScript
   - item: HTML
   - item: CSS/Sass
   - item: Python
-  - item: SQL
-  - item: R
 
 frameworks:
-  - item: Ember & Glimmer
+  - item: .NET
+  - item: ASP.NET Core
+  - item: ASP.NET Web API
+  - item: Entity Framework
+  - item: Winforms
+  - item: Xamarin
   - item: React
-  - item: Jekyll
   - item: Node
   - item: D3
   - item: Wordpress
-  - item: Timber
 
 tools:
-  - item: Bash
+  - item: Azure (App Services, ACI, AKS, Service Bus, SQL Server, Cosmos DB, Blob Storage, OMS)
+  - item: Docker
+  - item: Kubernetes (K8s)
+  - item: GraphQL
   - item: Git & Github
-  - item: Gulp & Grunt
   - item: Chrome DevTools
   - item: Postman
   - item: MongoDB
+  - item: Visio
+  - item: ReSharper
+  - item: TFS (Team Foundation Server)
+  - item: Azure DevOps
 
 design:
+  - item: System Analysis
+  - item: IT Strategy
+  - item: Solution Design
   - item: Sketch
-  - item: InDesign
   - item: InVision
   - item: Prototyping
   - item: Wireframing
   - item: User Testing
+
+skills:
+  - item: Debugging & Problem-solving Skills
+  - item: Requirements Analysis & Documentation
+  - item: Communication Skills (Spoken & Written)
+  - item: Software Architecture
+  - item: Application Performance Management
+  - item: Azure Cost Management and Optimization
+  - item: Edge computing, IoT, Hybrid Cloud
+  - item: Technical Writing (Wiki pages, Azure Devops)

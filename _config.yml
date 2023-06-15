@@ -4,23 +4,23 @@ title: Narasimhan DevarajanLakshmi(DL) | Back-end Software Engineer
 description: Design-minded Back-end software engineer focused on building beautiful interfaces and experiences
 url: https://narasimhandl.github.io/
 baseurl: ''
-email: brittany.chiang@gmail.com
+email: narasimhandl@gmail.com
 cover: https://narasimhandl.github.io/img/og.png
 logo: https://narasimhandl.github.io/img/emojis/technologist.png
 resume: https://narasimhandl.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:narasimhandl@gmail.com
   - title: twitter
-    url: https://twitter.com/bchiang7
+    url: https://twitter.com/narasimhandev
   - title: instagram
-    url: https://instagram.com/bchiang7
+    url: https://instagram.com/narasimhandl
   - title: codepen
-    url: http://codepen.io/bchiang7
+    url: http://codepen.io/narasimhandl
   - title: github
     url: https://github.com/narasimhandl
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/dl-n
 
 # Build settings
 markdown: kramdown

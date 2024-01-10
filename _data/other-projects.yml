@@ -3,35 +3,22 @@
   code: on request
   description: Live project to sell Flashcards and Tamil tutoring resources for toddlers.
   used:
-    - thing: JavaScript
-    - thing: React
-    - thing: React Router
-    - thing: Axios
-    - thing: YouTube API
+    - thing: publii
+    - thing: electronjs
+    - thing: markdown
+    - thing: github pages
+    - thing: github
 
 - name: lakshmi.dev
   url: lakshmi.dev
   code: https://github.com/narasimhandl/lakshmi.dev
   description: A minimal, dark theme for Sublime Text, Atom, VS Code, and more published to <a class="underline-link" href="https://packagecontrol.io/packages/Halcyon%20Theme">Package Control</a>, <a class="underline-link" href="https://atom.io/themes/halcyon-syntax">Atom Package Manager</a>, <a class="underline-link" href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">Visual Studio Marketplace</a>, and <a class="underline-link" href="https://www.npmjs.com/package/hyper-halcyon-theme">NPM</a>.
   used:
-    - thing: Gatsby
-    - thing: Sublime Text
-    - thing: Atom
-    - thing: VS Code
-    - thing: iTerm2
-    - thing: Hyper
-
-- name: CS3200-Project
-  url: https://github.com/narasimhandl/CS3200-Project
-  code: https://github.com/narasimhandl/CS3200-Project
-  description: Final project for my Database Design course at Northeastern. A simple web application that allows users to filter through a database containing Lonely Planet's <a class="underline-link" href="https://www.amazon.com/Lonely-Planets-Ultimate-Travel-Places/dp/1760342777" target="_blank">Top 500 Travel Destinations</a>. Users are able to add themselves as visitors as well as leave reviews of the destinations.
-  used:
-    - thing: Python
-    - thing: MySQL
-    - thing: Flask
-    - thing: HTML
+    - thing: Bootstrap
     - thing: CSS
-    - thing: JavaScript
+    - thing: BootstrapStudio
+    - thing: Google Domains
+    - thing: ghpages
 
 - name: dln-india.github.io
   url: https://dln-india.github.io/

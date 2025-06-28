@@ -1,6 +1,6 @@
 languages:
   - item: C# 
-  - item: SQL
+  - item: SQL (T-SQL, PL/SQL)
   - item: VB6
   - item: PHP
   - item: JavaScript (ES6)
@@ -8,49 +8,53 @@ languages:
   - item: HTML
   - item: CSS/Sass
   - item: Python
+  - item: PowerShell
 
 frameworks:
-  - item: .NET
+  - item: .NET Framework & .NET Core
   - item: ASP.NET Core
   - item: ASP.NET Web API
-  - item: Entity Framework
+  - item: Entity Framework Core
   - item: Winforms
   - item: Xamarin
   - item: React
-  - item: Node
-  - item: D3
-  - item: Wordpress
+  - item: Node.js
+  - item: D3.js
+  - item: WordPress
 
 tools:
-  - item: Azure (App Services, ACI, AKS, Service Bus, SQL Server, Cosmos DB, Blob Storage, OMS)
-  - item: Docker
+  - item: Azure (App Services, Functions, ACI, AKS, Service Bus, Event Hub, SQL Server, Cosmos DB, Blob Storage, Key Vault, Application Insights)
+  - item: Docker & Containerization
   - item: Kubernetes (K8s)
   - item: GraphQL
-  - item: Git & Github
-  - item: Chrome DevTools
-  - item: Postman
+  - item: Git & GitHub
+  - item: Azure DevOps (Pipelines, Boards, Repos)
+  - item: Postman & API Testing
   - item: MongoDB
   - item: Visio
   - item: ReSharper
   - item: TFS (Team Foundation Server)
-  - item: Azure DevOps
+  - item: Visual Studio & VS Code
 
 design:
-  - item: System Analysis
-  - item: IT Strategy
-  - item: Solution Design
-  - item: Sketch
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+  - item: System Architecture Design
+  - item: IT Strategy & Planning
+  - item: Solution Design & Implementation
+  - item: Database Design & Optimization
+  - item: API Design & Documentation
+  - item: Microservices Architecture
+  - item: Cloud-Native Solutions
+  - item: Performance Optimization
 
 skills:
   - item: Debugging & Problem-solving Skills
   - item: Requirements Analysis & Documentation
   - item: Communication Skills (Spoken & Written)
-  - item: Software Architecture
+  - item: Software Architecture & Design Patterns
   - item: Application Performance Management
   - item: Azure Cost Management and Optimization
-  - item: Edge computing, IoT, Hybrid Cloud
-  - item: Technical Writing (Wiki pages, Azure Devops)
+  - item: Edge Computing, IoT, Hybrid Cloud
+  - item: Technical Writing (Wiki pages, Azure DevOps)
+  - item: CI/CD Pipeline Design
+  - item: Security Best Practices
+  - item: Agile/Scrum Methodologies

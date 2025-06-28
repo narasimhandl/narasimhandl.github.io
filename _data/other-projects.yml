@@ -1,7 +1,7 @@
 - name: TAMIL TODDLERS
   url: www.tamiltoddlers.com
   code: on request
-  description: Live project to sell Flashcards and Tamil tutoring resources for toddlers.
+  description: E-commerce platform for selling Tamil educational resources and flashcards. Built with modern web technologies and integrated payment processing.
   used:
     - thing: publii
     - thing: electronjs
@@ -12,7 +12,7 @@
 - name: lakshmi.dev
   url: lakshmi.dev
   code: https://github.com/narasimhandl/lakshmi.dev
-  description: A minimal, dark theme for Sublime Text, Atom, VS Code, and more published to <a class="underline-link" href="https://packagecontrol.io/packages/Halcyon%20Theme">Package Control</a>, <a class="underline-link" href="https://atom.io/themes/halcyon-syntax">Atom Package Manager</a>, <a class="underline-link" href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">Visual Studio Marketplace</a>, and <a class="underline-link" href="https://www.npmjs.com/package/hyper-halcyon-theme">NPM</a>.
+  description: Personal portfolio website showcasing back-end development expertise and technical projects. Built with modern web technologies and deployed on GitHub Pages.
   used:
     - thing: Bootstrap
     - thing: CSS
@@ -23,7 +23,7 @@
 - name: dln-india.github.io
   url: https://dln-india.github.io/
   code: https://github.com/dln-india/dln-india.github.io/
-  description: A simple portfolio website for dln-india using github pages
+  description: Portfolio website for dln-india built with Jekyll. Features responsive design and modern web development practices.
   used:
     - thing: Jekyll
     - thing: HTML
@@ -33,5 +33,4 @@
 - name: www.narasimhan.me
   url: https://www.narasimhan.me
   code: on request
-  description:
-    A wordpress based application for my personal website. I have used a custom theme
+  description: Personal WordPress website with custom theme development. Demonstrates full-stack capabilities including back-end customization and database management.
